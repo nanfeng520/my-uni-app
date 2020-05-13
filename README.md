@@ -1,2 +1,3 @@
-# Vue-Plug-in-unit
-Vue一些功能模块存放
+# my-admin-server
+npm i or yarn
+node app.js
